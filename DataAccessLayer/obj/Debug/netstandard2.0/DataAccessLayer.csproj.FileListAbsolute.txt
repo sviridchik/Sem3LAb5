@@ -1,0 +1,13 @@
+C:\Users\victoriasviridchik\source\repos\lab41\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\victoriasviridchik\source\repos\lab41\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\victoriasviridchik\source\repos\lab41\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\victoriasviridchik\source\repos\lab41\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\victoriasviridchik\source\repos\lab41\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\source\repos\lab41\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab41\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab41\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\source\repos\lab41\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\User\source\repos\lab41\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\User\source\repos\lab41\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\User\source\repos\lab41\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\User\source\repos\lab41\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
