@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<AllData>
+	<ArchiveAndDearchieveConfiguration>
+		<Archieve>true</Archieve>
+		<DeArchieve>true</DeArchieve>
+	</ArchiveAndDearchieveConfiguration>
+	<FinderInfo>
+		<Coding>utf8</Coding>
+		<SourceDirectory>\Users\User\source\repos\sem3Lab5\lab51\SourceDirectory</SourceDirectory>
+		<TargetDirectory>\Users\User\source\repos\sem3Lab5\lab51\TargetDirectory\</TargetDirectory>
+		<LogPath>\Users\User\source\repos\sem3Lab5\lab51\tmplog.txt</LogPath>
+		<NeedToLog>true</NeedToLog>
+	</FinderInfo>
+	<CompressingOptions>
+		<Compressing>true</Compressing>
+	</CompressingOptions>
+	<EncryptingAndDecriptingOptions>
+		<RandomKey>true</RandomKey>
+		<Encrypt>true</Encrypt>
+		<DEncrypt>true</DEncrypt>
+	</EncryptingAndDecriptingOptions>
+	<DataOptions>
+		<Server>USER-PC\SQLEXPRESS</Server>
+		<Database>AdventureWorks2012</Database>
+		<Trusted_Connection>true</Trusted_Connection>
+	</DataOptions>
+</AllData>
+
+
+

@@ -1,0 +1,28 @@
+{
+  "AllData": {"ArchiveAndDearchieveConfiguration": {
+      "Archieve": true,
+      "DeArchieve": true
+    },
+    "FinderInfo": {
+      "Coding": "utf8",
+      "SourceDirectory": "Users\User\source\repos\sem3Lab5\SourceDirectory",
+      "TargetDirectory": "Users\User\source\repos\sem3Lab5\TargetDirectory",
+      "LogPath": "Users\User\source\repos\sem3Lab5\tmplog.txt",
+      "NeedToLog": true
+    },
+    "CompressingOptions": {
+      "Compressing": true
+    },
+    "EncryptingAndDecriptingOptions": {
+      "RandomKey": true,
+      "Encrypt": true,
+      "DEncrypt": true
+    },
+
+    "DataOptions": {
+      "Server": "USER-PC\SQLEXPRESS",
+      "Database": "AdventureWorks2012",
+      "Trusted_Connection": true
+    }
+  }
+}
